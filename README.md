@@ -10,9 +10,8 @@ Overall, my combined expertise as a QA Lead and Business Analyst positions me as
 - 👀 I’m interested in learning automation testing 
 - 🌱 I’m currently learning Business requirement documentaion
 - 💞️ I’m looking to collaborate on BA roles
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 You can reach me out through linkdIn https://www.linkedin.com/in/ayeshafarheenr/
+
 
 <!---
 Ayeshafarheen23/Ayeshafarheen23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
